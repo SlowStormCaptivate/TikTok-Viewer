@@ -90,7 +90,6 @@ A: Currently only for Windows 10/11.
 ### 📞 Support
 
 - GitHub Issues — for bug reports
-- (You can add your Telegram if needed)
 
 ---
 
